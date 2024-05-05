@@ -1,5 +1,4 @@
-# EX 8 SQL INJECTION
-Exploiting SQL Injection vulnerability
+# EX : 8 SQL Injection and Case Studies of Award-Winning XSS Attacks
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
